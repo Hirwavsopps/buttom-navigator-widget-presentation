@@ -3,6 +3,7 @@
 **BottomNavigationBar** is a Flutter widget that places a row of tabs at the bottom of the screen so users can switch between an app's main sections with one tap.
 
 ## Screenshot
+<img width="959" height="539" alt="Screenshot 2026-10-14 223426" src="https://github.com/user-attachments/assets/8baa81ed-f13d-4fe7-ab13-03900e40a550" />
 
 
 ## About this demo
